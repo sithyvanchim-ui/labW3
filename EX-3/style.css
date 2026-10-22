@@ -1,0 +1,23 @@
+/* TODO */
+button{
+    
+    background-color: rgb(192, 101, 101);
+    border-radius: 30px;
+    height: 80px;
+    width: 300px;
+    font-size: 40px;
+    border-color: brown;
+    border-color: rgb(145, 157, 164);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    text-shadow: 2px 2px 4px rgba(218, 227, 206, 0.681);
+    border-width: 5px;
+   
+   
+
+}
+button:hover{
+    background-color: blueviolet;
+    border-color: black;
+    color:rgb(134, 169, 200);
+}

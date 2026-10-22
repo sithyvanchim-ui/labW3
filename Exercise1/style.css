@@ -1,0 +1,76 @@
+.cover{
+    background-color: rgb(206, 61, 61);
+    padding: 30px 100px;
+    height: 100%;
+}
+
+.contant_top{
+    display: block;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 30px;
+}
+.contant_middle{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 30px;
+    
+}
+.contant_bottom{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 30px;
+}
+.cover .contant_top #btn{
+    background-color: rgb(32, 201, 201);
+    border-radius: 30px;
+    border-color: aliceblue;
+    box-shadow: inset;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    margin-bottom: 20px;
+  
+
+}
+.cover .contant_top #btn:hover{
+    background-color: blue;
+
+}
+.cover .contant_middle #btn_middle{
+    background-color: rgb(69, 103, 176);
+    border-radius: 30px;
+    border-color: aliceblue;
+    box-shadow: inset;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+.cover .contant_middle #btn_middle:hover{
+    background-color: rgb(231, 30, 198);
+
+}
+.cover .contant_bottom #btn_bot{
+    background-color: rgb(61, 182, 107);
+    border-radius: 30px;
+    border-color: aliceblue;
+    box-shadow: inset;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+.cover .contant_bottom #btn_bot:hover{
+    background-color: rgb(195, 178, 30);
+
+}
+p{
+    font-size: 30px;
+    
+}
